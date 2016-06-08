@@ -1,0 +1,23 @@
+.input-group {
+	position:fixed !important;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 20px 10vw;
+	background: white;
+	z-index: 5;
+}
+
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+td:first-of-type {
+	height: 200px;
+	width: 250px;
+}
+
+.table-hover {
+	margin-top: 5em;
+}
