@@ -1,2 +1,2 @@
 # 🤓
-![react+redux+graphql](https://github.com/antyang/silver-broccoli/silver-broccoli/react-redux-graphql.png)
+![react+redux+graphql](https://raw.githubusercontent.com/antyang/silver-broccoli/master/react-redux-graphql.png)
